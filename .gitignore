@@ -1,0 +1,6 @@
+# Ignore specific image files
+image/issa.png
+image/issa.png:Zone.Identifier
+
+# Ignore all PNG files in the image directory
+image/*.png
